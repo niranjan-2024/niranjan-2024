@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/niranjankalra?theme=light,unicorn)](https://leetcode.com/niranjankalra/)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjankalra" alt="LeetCode Badges"/>
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=niranjan2024en1128)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 <!--
 **niranjan-2024/niranjan-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
