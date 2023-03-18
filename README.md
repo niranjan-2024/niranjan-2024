@@ -24,6 +24,8 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/niranjankalra?theme=light,unicorn)](https://leetcode.com/niranjankalra/)
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=niranjan2024en1128)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!--
 **niranjan-2024/niranjan-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
