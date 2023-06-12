@@ -22,7 +22,7 @@
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/niranjankalra?theme=light,unicorn)](https://leetcode.com/niranjankalra/)
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=niranjan2024en1128)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Niranjan's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=niranjan2024en1128)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-2024&theme=tokyonight)
 
